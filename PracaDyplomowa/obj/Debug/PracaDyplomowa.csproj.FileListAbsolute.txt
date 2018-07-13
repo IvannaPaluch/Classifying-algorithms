@@ -1,0 +1,9 @@
+C:\Users\Iv\Desktop\praca inz\PracaDyplomowa\PracaDyplomowa\bin\Debug\PracaDyplomowa.exe.config
+C:\Users\Iv\Desktop\praca inz\PracaDyplomowa\PracaDyplomowa\bin\Debug\PracaDyplomowa.exe
+C:\Users\Iv\Desktop\praca inz\PracaDyplomowa\PracaDyplomowa\bin\Debug\PracaDyplomowa.pdb
+C:\Users\Iv\Desktop\praca inz\PracaDyplomowa\PracaDyplomowa\obj\Debug\PracaDyplomowa.csprojResolveAssemblyReference.cache
+C:\Users\Iv\Desktop\praca inz\PracaDyplomowa\PracaDyplomowa\obj\Debug\PracaDyplomowa.Form1.resources
+C:\Users\Iv\Desktop\praca inz\PracaDyplomowa\PracaDyplomowa\obj\Debug\PracaDyplomowa.Properties.Resources.resources
+C:\Users\Iv\Desktop\praca inz\PracaDyplomowa\PracaDyplomowa\obj\Debug\PracaDyplomowa.csproj.GenerateResource.Cache
+C:\Users\Iv\Desktop\praca inz\PracaDyplomowa\PracaDyplomowa\obj\Debug\PracaDyplomowa.exe
+C:\Users\Iv\Desktop\praca inz\PracaDyplomowa\PracaDyplomowa\obj\Debug\PracaDyplomowa.pdb
